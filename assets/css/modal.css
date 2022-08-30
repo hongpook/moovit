@@ -1,0 +1,22 @@
+.modal-footer{
+    
+}
+.modal-footer-body{
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+    background-color: #fff;
+    padding: 5px 8px;
+    width: 148px;
+    border-radius: 3px;
+}
+.modal-footer-body a{
+    font-size: 13px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #131c21;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
